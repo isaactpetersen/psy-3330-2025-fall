@@ -13,7 +13,7 @@ Last Updated: `r format(Sys.Date(), "%m/%d/%Y")`
 
 # Course Title {#title}
 
-PSY 3330 – Childhood Psychopathology (Fall 2023)
+PSY 3330 – Childhood Psychopathology (Fall 2025)
 
 # Course Meeting Time and Place {#lectureTime}
 
@@ -214,7 +214,7 @@ However, some integration of information across sections will be required for qu
 Exams will consist of short-answer and multiple choice questions based upon both readings (texts and articles) and the lecture material.
 Exam dates are listed below.
 
-**Exam 1 (Mid-Term Exam):	Wednesday, October 4, 2023 during class**\
+**Exam 1 (Mid-Term Exam):	Wednesday, October 4, 2025 during class**\
 **Exam 2 (Final Exam): TBD during finals week** (the date, time, and location will be announced by the 5th week of class by the College of Liberal Arts and Sciences)
 
 ### Missing Exams {#missingExams}

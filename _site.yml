@@ -20,7 +20,7 @@ output:
       - "includes/footer.html"
 new_session: true
 navbar:
-  title: "Class Wiki for Childhood Psychopathology (Fall 2023)"
+  title: "Class Wiki for Childhood Psychopathology (Fall 2025)"
   left:
     - text: "Course Syllabus"
       href: syllabus.html

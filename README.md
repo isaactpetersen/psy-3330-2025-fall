@@ -1,7 +1,7 @@
-# PSY 3330 – Childhood Psychopathology (Fall 2023)
+# PSY 3330 – Childhood Psychopathology (Fall 2025)
 
-This is the code that creates the Wiki for PSY 3330 – Childhood Psychopathology (Fall 2023).
-The Class Wiki is located here: **https://isaactpetersen.github.io/psy-3330-2023-fall**
+This is the code that creates the Wiki for PSY 3330 – Childhood Psychopathology (Fall 2025).
+The Class Wiki is located here: **https://isaactpetersen.github.io/psy-3330-2025-fall**
 
 # License
 
