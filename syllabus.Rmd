@@ -288,8 +288,8 @@ The workflow of the literature review stages, their respective percentages in th
 
 | Stage | Assignment Description | Percent | Due Date |
 |-------|------------------------|---------|----------|
-| 1     | **Develop a topic description (2 sentences) and 3–5 keywords** you will then use to conduct a literature search using [Google Scholar](http://purl.lib.uiowa.edu/GoogleSch), [PsycINFO](http://purl.lib.uiowa.edu/apa/psycinfo), and/or [PubMed](http://purl.lib.uiowa.edu/nlm/pubmed). | 2.5% | 9/15  |
-| 2     | **Identify and generate a list of 5 empirical articles** that you will include in your review based on your searches of [Google Scholar](http://purl.lib.uiowa.edu/GoogleSch), [PsycINFO](http://purl.lib.uiowa.edu/apa/psycinfo), and/or [PubMed](http://purl.lib.uiowa.edu/nlm/pubmed).    | 2.5% | 9/25  |
+| 1     | **Develop a topic description (2 sentences) and 3–5 keywords** you will then use to conduct a literature search using [Google Scholar](https://purl.lib.uiowa.edu/GoogleSch), [PsycINFO](https://purl.lib.uiowa.edu/apa/psycinfo), and/or [PubMed](https://purl.lib.uiowa.edu/nlm/pubmed). | 2.5% | 9/15  |
+| 2     | **Identify and generate a list of 5 empirical articles** that you will include in your review based on your searches of [Google Scholar](https://purl.lib.uiowa.edu/GoogleSch), [PsycINFO](https://purl.lib.uiowa.edu/apa/psycinfo), and/or [PubMed](https://purl.lib.uiowa.edu/nlm/pubmed).    | 2.5% | 9/25  |
 | 3     | **Write brief summaries** of each of the 5 empirical articles that includes clear descriptions of both the methodology and relevant findings. | 10%  | 10/16 |
 | 4     | **Compose a complete first draft** of the review that includes an introduction with thesis, description, critique, and integration of the 5 empirical studies. | 25%  | 11/3  |
 | 5a    | Peer reviews are assigned. | –  | 11/6 |
@@ -300,7 +300,7 @@ The workflow of the literature review stages, their respective percentages in th
 #### Stage 1: Generate a Topic {#stage1}
 
 You will first develop a topic and a set of keywords for your paper.
-For the review format, this involves generating a specific topic and keywords you will then use to conduct a literature search using [Google Scholar](http://purl.lib.uiowa.edu/GoogleSch), [PsycINFO](http://purl.lib.uiowa.edu/apa/psycinfo), and/or [PubMed](http://purl.lib.uiowa.edu/nlm/pubmed).
+For the review format, this involves generating a specific topic and keywords you will then use to conduct a literature search using [Google Scholar](https://purl.lib.uiowa.edu/GoogleSch), [PsycINFO](https://purl.lib.uiowa.edu/apa/psycinfo), and/or [PubMed](https://purl.lib.uiowa.edu/nlm/pubmed).
 We will discuss strategies for generating topics and keywords in class, and examples will be provided.
 <u>By the [deadline](#deadlines), you will turn in a summary of your research topic (1–2 sentences) and a list of keywords that will start your literature search</u>.
 
@@ -536,8 +536,8 @@ The LOA will specify what reasonable course accommodations the student is eligib
 Students are encouraged to be mindful of their mental health and seek help as a preventive measure or if feeling overwhelmed and/or struggling to meet course expectations.
 Students are encouraged to talk to their instructor for assistance with specific class-related concerns.
 For additional support and counseling, students are encouraged to contact University Counseling Service (UCS).
-Information about UCS, including resources and how to schedule an appointment, can be found at [counseling.uiowa.edu](http://counseling.uiowa.edu).
-Find out more about UI mental health services at [mentalhealth.uiowa.edu](http://mentalhealth.uiowa.edu).
+Information about UCS, including resources and how to schedule an appointment, can be found at [counseling.uiowa.edu](https://counseling.uiowa.edu).
+Find out more about UI mental health services at [mentalhealth.uiowa.edu](https://mentalhealth.uiowa.edu).
 
 [Student Care and Assistance](https://dos.uiowa.edu/assistance) provides assistance to University of Iowa students who are experiencing a variety of crisis and emergency situations, including but not limited to medical issues, family emergencies, unexpected challenges, and sourcing basic needs such as food and shelter.
 More information on the resources related to basic needs can be found at [basicneeds.uiowa.edu/resources](https://basicneeds.uiowa.edu/resources).
