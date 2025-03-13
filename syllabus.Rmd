@@ -107,12 +107,14 @@ However, if you opt out, please note:
 
 ## Articles {#articles}
 
+<u>***NOTE: UPDATE ICON WITH MCARTHUR ARTICLE (TO REPLACE CHRISTAKIS ARTICLE FOR LIT CRITIQUE)***</u>
+
 In addition to the textbook, additional required readings for selected topics will include the following articles.
 PDFs of these articles can be found on [ICON](https://icon.uiowa.edu).
 
 1. Shea, S. E., Gordon, K., Hawkins, A., Kawchuk, J., & Smith, D. (2000). Pathology in the hundred acre wood: A neurodevelopmental perspective on A.A. Milne. *Canadian Medical Association Journal, 163*(12), 1557–1559. https://www.cmaj.ca/content/cmaj/163/12/1557.full.pdf (Just for fun! 😊)
 1. Ra, C. K., Cho, J., Stone, M. D., De La Cerda, J., Goldenson, N. I., Moroney, E., Tung, I., Lee, S. S., & Leventhal, A. M. (2018). Association of digital media use with subsequent symptoms of attention-deficit/hyperactivity disorder among adolescents. *JAMA, 320*(3), 255–263. https://doi.org/10.1001/jama.2018.8931
-1. Christakis, D. A., Zimmerman, F. J., DiGiuseppe, D. L., & McCarty, C. A. (2004). Early television exposure and subsequent attentional problems in children. *Pediatrics, 113*(4), 708–713. https://doi.org/10.1542/peds.113.4.708
+1. McArthur, B. A., Tough, S., & Madigan, S. (2022). Screen time and developmental and behavioral outcomes for preschool children. *Pediatric Research, 91*(6), 1616–1621. https://doi.org/10.1038/s41390-021-01572-w
 1. Thapar, A., Rice, F., Hay, D., Boivin, J., Langley, K., van den Bree, M., Rutter, M., & Harold, G. (2009). Prenatal smoking might not cause attention-deficit/hyperactivity disorder: Evidence from a novel design. *Biological Psychiatry, 66*(8), 722–727. https://doi.org/10.1016/j.biopsych.2009.05.032
 1. Ozonoff, S., Iosif, A.-M., Baguio, F., Cook, I. C., Hill, M. M., Hutman, T., Rogers, S. J., Rozga, A., Sangha, S., Sigman, M., Steinfeld, M. B., & Young, G. S. (2010). A prospective study of the emergence of early behavioral signs of autism. *Journal of the American Academy of Child & Adolescent Psychiatry, 49*(3), 256–266.e252. https://doi.org/10.1016/j.jaac.2009.11.009
 1. Frick, P. J. (2012). Developmental pathways to conduct disorder: Implications for future directions in research, assessment, and treatment. *Journal of Clinical Child & Adolescent Psychology, 41*(3), 378–389. https://doi.org/10.1080/15374416.2012.664815
@@ -234,7 +236,7 @@ In order to take a make-up exam, you must provide acceptable documentation to be
 
 You will be required to complete two literature critique assignments.
 These assignments are designed to help you learn to critically analyze original source articles in written form.
-Both assignments involve providing a critique of a research article (Ra et al., 2018 – Article #2, and Christakis et al., 2004 – Article #3).
+Both assignments involve providing a critique of a research article (Ra et al., 2018 – Article #2, and McArthur et al., 2022 – Article #3).
 Both papers should be 2–3 pages long (double-spaced, APA format, 12-point Times New Roman font) and will be turned in via [ICON](https://icon.uiowa.edu).
 Each should be in essay form and carefully proofread for spelling and grammatical errors.
 <u>Students may not work together on the critiques.</u>
