@@ -3,6 +3,12 @@
 This is the code that creates the Wiki for PSY 3330 – Childhood Psychopathology (Fall 2025).
 The Class Wiki is located here: **https://isaactpetersen.github.io/psy-3330-2025-fall**
 
+To render the syllabus as PDF:
+
+```r
+rmarkdown::render("syllabus.Rmd", output_format = "pdf_document")
+```
+
 # License
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
