@@ -222,13 +222,15 @@ All quizzes should be submitted to [ICON](https://icon.uiowa.edu) by 11:59 p.m. 
 ## Examinations {#exams}
 
 There will be 2 exams; one mid-term exam and one non-cumulative final exam.
+Exam 1 will be administered during class time.
+The date, time, and location of the final exam will be announced by the 5th week of class by the College of Liberal Arts and Sciences; the duration of the final exam will be 120 minutes.
 Each exam will emphasize information presented for the half of the class that precedes it.
 However, some integration of information across sections will be required for questions on the final exam.
 Exams will consist of short-answer and multiple choice questions based upon both readings (texts and articles) and the lecture material.
 Exam dates are listed below.
 
 **Exam 1 (Mid-Term Exam):	Wednesday, October 4, 2025 during class**\
-**Exam 2 (Final Exam): TBD during finals week** (the date, time, and location will be announced by the 5th week of class by the College of Liberal Arts and Sciences; the exam duration will be 120 minutes)
+**Exam 2 (Final Exam): TBD during finals week** (the date, time, and location will be announced by the 5th week of class by the College of Liberal Arts and Sciences)
 
 ### Missing Exams {#missingExams}
 
@@ -461,7 +463,7 @@ The relative contribution of each component to your final grade is as follows:
 The [final examination date and time](https://registrar.uiowa.edu/final-exam-schedules) will be announced by the Registrar generally by the fifth week of classes, and it will be announced on the course ICON site once it is known.
 <u>Do not plan your end of the semester travel plans until the final exam schedule is made public.
 It is your responsibility to know the date, time, and place of the final exam.</u>
-According to Registrar's final exam policy, students <u>have a maximum of two weeks after the announced final exam schedule</u> to request a change if an exam conflict exists or if a student has more than two exams scheduled for the same day (see the [policy](https://registrar.uiowa.edu/makeup-final-examination-policies) here).
+According to the Registrar's final exam policy, students <u>have a maximum of two weeks after the announced final exam schedule</u> to request a change if an exam conflict exists or if a student has more than two exams scheduled for the same day (see the [policy](https://registrar.uiowa.edu/makeup-final-examination-policies) here).
 
 # Course Resources {#courseResources}
 
