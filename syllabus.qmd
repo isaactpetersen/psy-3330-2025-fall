@@ -1,31 +1,29 @@
 ---
 title: "Course Syllabus"
+engine: knitr
+format: 
+  html: default
+  pdf: default
+format-links: true
 ---
-
-```{r setup, include = FALSE}
-knitr::opts_chunk$set(
-  echo = TRUE,
-  error = TRUE,
-  comment = "")
-```
 
 Last Updated: `r format(Sys.Date(), "%m/%d/%Y")`
 
-# Course Title {#title}
+# Course Title {#sec-title}
 
 PSY 3330 – Childhood Psychopathology (Fall 2025)
 
-# Course Meeting Time and Place {#lectureTime}
+# Course Meeting Time and Place {#sec-lectureTime}
 
 Monday, Wednesday, & Friday 10:30–11:20 a.m., 158 Van Allen (VAN)
 
-# Course Website {#website}
+# Course Website {#sec-website}
 
-https://icon.uiowa.edu
+<https://icon.uiowa.edu>
 
 To access the course site, log into [Iowa Courses Online (ICON)](https://icon.uiowa.edu) using your Hawk ID and password.
 
-# Course Home {#home}
+# Course Home {#sec-home}
 
 The University of Iowa\
 The College of Liberal Arts and Sciences\
@@ -34,7 +32,7 @@ Department of Psychological and Brain Sciences
 The College of Liberal Arts and Sciences (CLAS) is the home of this course, and CLAS governs the add and drop deadlines, academic misconduct policies, and other policies and procedures.
 Other UI colleges may have different policies.
 
-# Instructor Contact Information {#instructor}
+# Instructor Contact Information {#sec-instructor}
 
 [Professor Petersen](https://psychology.uiowa.edu/people/isaac-petersen)\
 Office: 175 Psychological and Brain Sciences Building (PBSB)\
@@ -47,7 +45,7 @@ I welcome you to discuss any concerns you might have about the class.
 I am also available to meet with you by appointment, although I would appreciate your making every effort to see me during office hours.
 The best way to reach me outside of class is by email.
 
-# Graduate Teaching Assistant {#TA}
+# Graduate Teaching Assistant {#sec-TA}
 
 The class has one graduate teaching assistant (TA).
 
@@ -56,21 +54,21 @@ Office: 255H Psychological and Brain Sciences Building (PBSB)—ring the bell at
 Student drop-in hours: Wednesday 11:20–12:20 & Friday 1:10–2:10\
 E-mail: nam-yoon-kim@uiowa.edu
 
-# Departmental Resources {#deptResources}
+# Departmental Resources {#sec-deptResources}
 
-Department of Psychological and Brain Sciences: [https://psychology.uiowa.edu](https://psychology.uiowa.edu)\
+Department of Psychological and Brain Sciences: <https://psychology.uiowa.edu>\
 Department of Psychological and Brain Sciences Main Office: G60 Psychological and Brain Sciences Building (335-2406)\
 Coordinator of Undergraduate Studies: Professor Windschitl ([paul-windschitl@uiowa.edu](mailto:paul-windschitl@uiowa.edu); 335-3681)\
 Academic Coordinator: Janeil Page-Jamison ([janeil-page@uiowa.edu](mailto:janeil-page@uiowa.edu); 384-3657)\
 Departmental Executive Officer (DEO)/Department Chair: Professor Blumberg ([mark-blumberg@uiowa.edu](mailto:mark-blumberg@uiowa.edu); 335-2424)
 
-# Prerequisites {#prereqs}
+# Prerequisites {#sec-prereqs}
 
 The Department of Psychological and Brain Sciences has a hierarchical course structure that requires students to complete certain prerequisite courses before taking upper-level courses.
 This course requires successful completion (C- or higher) of Elementary Psychology, Introduction to Clinical Psychology, and Research Methods in Psychology.
 The department will check student records to ensure completion of course prerequisites.  
 
-# Description of Course {#description}
+# Description of Course {#sec-description}
 
 This course satisfies the upper-level elective requirement for Psychological and Brain Sciences majors.
 Additionally, students with broad interests in health and development will find this course useful. 
@@ -81,7 +79,7 @@ Within each syndrome, possible genetic, neurobiological, psychological, familial
 We will also review and discuss risk and resilience factors for child psychopathology (individual, family, community) as well as models of treatment and prevention.
 *You are urged to reconsider your decision to take this class if you are reluctant to examine these topics in a scientific manner.*
 
-# Learning Outcomes {#learningOutcomes}
+# Learning Outcomes {#sec-learningOutcomes}
 
 At the end of this course, you will be able to:
 
@@ -92,9 +90,9 @@ At the end of this course, you will be able to:
 - Critique, analyze, and synthesize original source articles in developmental psychopathology.
 - Produce an APA-style literature review that integrates empirical findings in developmental psychopathology.
 
-# Required Materials {#materials}
+# Required Materials {#sec-materials}
 
-## Textbook {#textbook}
+## Textbook {#sec-textbook}
 
 To provide you with a textbook for as low cost as possible, you will be provided an eText of the following book via ICON Direct, unless you opt out:
 
@@ -109,36 +107,36 @@ However, if you opt out, please note:
 - You risk falling behind in the course if you have not acquired alternate versions of the same materials prior to the first day of the class.
 - Instructors are not responsible for providing you with alternative materials or waiving course/class requirements.
 
-## Articles {#articles}
+## Articles {#sec-articles}
 
 <u>***NOTE: UPDATE ICON WITH MCARTHUR ARTICLE (TO REPLACE CHRISTAKIS ARTICLE FOR LIT CRITIQUE)***</u>
 
 In addition to the textbook, additional required readings for selected topics will include the following articles.
 PDFs of these articles can be found on [ICON](https://icon.uiowa.edu).
 
-1. Shea, S. E., Gordon, K., Hawkins, A., Kawchuk, J., & Smith, D. (2000). Pathology in the hundred acre wood: A neurodevelopmental perspective on A.A. Milne. *Canadian Medical Association Journal, 163*(12), 1557–1559. https://www.cmaj.ca/content/cmaj/163/12/1557.full.pdf (Just for fun! 😊)
-1. Ra, C. K., Cho, J., Stone, M. D., De La Cerda, J., Goldenson, N. I., Moroney, E., Tung, I., Lee, S. S., & Leventhal, A. M. (2018). Association of digital media use with subsequent symptoms of attention-deficit/hyperactivity disorder among adolescents. *JAMA, 320*(3), 255–263. https://doi.org/10.1001/jama.2018.8931
-1. McArthur, B. A., Tough, S., & Madigan, S. (2022). Screen time and developmental and behavioral outcomes for preschool children. *Pediatric Research, 91*(6), 1616–1621. https://doi.org/10.1038/s41390-021-01572-w
-1. Thapar, A., Rice, F., Hay, D., Boivin, J., Langley, K., van den Bree, M., Rutter, M., & Harold, G. (2009). Prenatal smoking might not cause attention-deficit/hyperactivity disorder: Evidence from a novel design. *Biological Psychiatry, 66*(8), 722–727. https://doi.org/10.1016/j.biopsych.2009.05.032
-1. Ozonoff, S., Iosif, A.-M., Baguio, F., Cook, I. C., Hill, M. M., Hutman, T., Rogers, S. J., Rozga, A., Sangha, S., Sigman, M., Steinfeld, M. B., & Young, G. S. (2010). A prospective study of the emergence of early behavioral signs of autism. *Journal of the American Academy of Child & Adolescent Psychiatry, 49*(3), 256–266.e252. https://doi.org/10.1016/j.jaac.2009.11.009
-1. Frick, P. J. (2012). Developmental pathways to conduct disorder: Implications for future directions in research, assessment, and treatment. *Journal of Clinical Child & Adolescent Psychology, 41*(3), 378–389. https://doi.org/10.1080/15374416.2012.664815
+1. Shea, S. E., Gordon, K., Hawkins, A., Kawchuk, J., & Smith, D. (2000). Pathology in the hundred acre wood: A neurodevelopmental perspective on A.A. Milne. *Canadian Medical Association Journal, 163*(12), 1557–1559. <https://www.cmaj.ca/content/cmaj/163/12/1557.full.pdf> (Just for fun! 😊)
+1. Ra, C. K., Cho, J., Stone, M. D., De La Cerda, J., Goldenson, N. I., Moroney, E., Tung, I., Lee, S. S., & Leventhal, A. M. (2018). Association of digital media use with subsequent symptoms of attention-deficit/hyperactivity disorder among adolescents. *JAMA, 320*(3), 255–263. <https://doi.org/10.1001/jama.2018.8931>
+1. McArthur, B. A., Tough, S., & Madigan, S. (2022). Screen time and developmental and behavioral outcomes for preschool children. *Pediatric Research, 91*(6), 1616–1621. <https://doi.org/10.1038/s41390-021-01572-w>
+1. Thapar, A., Rice, F., Hay, D., Boivin, J., Langley, K., van den Bree, M., Rutter, M., & Harold, G. (2009). Prenatal smoking might not cause attention-deficit/hyperactivity disorder: Evidence from a novel design. *Biological Psychiatry, 66*(8), 722–727. <https://doi.org/10.1016/j.biopsych.2009.05.032>
+1. Ozonoff, S., Iosif, A.-M., Baguio, F., Cook, I. C., Hill, M. M., Hutman, T., Rogers, S. J., Rozga, A., Sangha, S., Sigman, M., Steinfeld, M. B., & Young, G. S. (2010). A prospective study of the emergence of early behavioral signs of autism. *Journal of the American Academy of Child & Adolescent Psychiatry, 49*(3), 256–266.e252. <https://doi.org/10.1016/j.jaac.2009.11.009>
+1. Frick, P. J. (2012). Developmental pathways to conduct disorder: Implications for future directions in research, assessment, and treatment. *Journal of Clinical Child & Adolescent Psychology, 41*(3), 378–389. <https://doi.org/10.1080/15374416.2012.664815>
 1. How to Write a Literature Review.
-1. Kendall, P. C., Settipani, C. A., & Cummings, C. M. (2012). No need to worry: The promising future of child anxiety research. *Journal of Clinical Child & Adolescent Psychology, 41*(1), 103–115. https://doi.org/10.1080/15374416.2012.632352
-1. Stringaris, A., Vidal-Ribas, P., Brotman, M. A., & Leibenluft, E. (2018). Practitioner Review: Definition, recognition, and treatment challenges of irritability in young people. *Journal of Child Psychology and Psychiatry, 59*(7), 721–739. https://doi.org/10.1111/jcpp.12823
-1. Stice, E., South, K., & Shaw, H. (2012). Future directions in etiologic, prevention, and treatment research for eating disorders. *Journal of Clinical Child & Adolescent Psychology, 41*(6), 845–855. https://doi.org/10.1080/15374416.2012.728156
-1. Young, R., Sproeber, N., Groschwitz, R. C., Preiss, M., & Plener, P. L. (2014). Why alternative teenagers self-harm: Exploring the link between non-suicidal self-injury, attempted suicide and adolescent identity. *BMC Psychiatry, 14*(1), 137. https://doi.org/10.1186/1471-244X-14-137
-1. Colvert, E., Rutter, M., Kreppner, J., Beckett, C., Castle, J., Groothues, C., Hawkins, A., Stevens, S., & Sonuga-Barke, E. J. S. (2008). Do theory of mind and executive function deficits underlie the adverse outcomes associated with profound early deprivation?: Findings from the English and Romanian adoptees study. *Journal of Abnormal Child Psychology, 36*(7), 1057–1068. https://doi.org/10.1007/s10802-008-9232-x
-1. Nelson, C. A., III, Zeanah, C. H., Fox, N. A., Marshall, P. J., Smyke, A. T., & Guthrie, D. (2007). Cognitive recovery in socially deprived young children: The Bucharest Early Intervention Project. *Science, 318*(5858), 1937–1940. https://doi.org/10.1126/science.1143921
-1. Davis, E. P., Glynn, L. M., Schetter, C. D., Hobel, C., Chicz-Demet, A., & Sandman, C. A. (2007). Prenatal exposure to maternal depression and cortisol influences infant temperament. *Journal of the American Academy of Child & Adolescent Psychiatry, 46*(6), 737–746. https://doi.org/10.1097/chi.0b013e318047b775
-1. Burke, J. D., Pardini, D. A., & Loeber, R. (2008). Reciprocal relationships between parenting behavior and disruptive psychopathology from childhood through adolescence. *Journal of Abnormal Child Psychology, 36*(5), 679–692. https://doi.org/10.1007/s10802-008-9219-7
-1. Cummings, E. M., Goeke-Morey, M. C., & Papp, L. M. (2004). Everyday marital conflict and child aggression. *Journal of Abnormal Child Psychology, 32*(2), 191–202. https://doi.org/10.1023/B:JACP.0000019770.13216.be
-1. McDonough, M. H., Jose, P. E., & Stuart, J. (2016). Bi-directional effects of peer relationships and adolescent substance use: A longitudinal study. *Journal of Youth and Adolescence, 45*(8), 1652–1663. https://doi.org/10.1007/s10964-015-0355-4
-1. Bonanno, R. A., & Hymel, S. (2013). Cyber bullying and internalizing difficulties: Above and beyond the impact of traditional forms of bullying. *Journal of Youth and Adolescence, 42*(5), 685–697. https://doi.org/10.1007/s10964-013-9937-1
-1. Chung, H. L., & Steinberg, L. (2006). Relations between neighborhood factors, parenting behaviors, peer deviance, and delinquency among serious juvenile offenders. *Developmental Psychology, 42*(2), 319–331. https://doi.org/10.1037/0012-1649.42.2.319
-1. Collishaw, S., Pickles, A., Messer, J., Rutter, M., Shearer, C., & Maughan, B. (2007). Resilience to adult psychopathology following childhood maltreatment: Evidence from a community sample. *Child Abuse & Neglect, 31*(3), 211–229. https://doi.org/10.1016/j.chiabu.2007.02.004
-1. Conduct Problems Prevention Research Group. (2011). The effects of the fast track preventive intervention on the development of conduct disorder across childhood. *Child Development, 82*(1), 331–345. https://doi.org/10.1111/j.1467-8624.2010.01558.x
+1. Kendall, P. C., Settipani, C. A., & Cummings, C. M. (2012). No need to worry: The promising future of child anxiety research. *Journal of Clinical Child & Adolescent Psychology, 41*(1), 103–115. <https://doi.org/10.1080/15374416.2012.632352>
+1. Stringaris, A., Vidal-Ribas, P., Brotman, M. A., & Leibenluft, E. (2018). Practitioner Review: Definition, recognition, and treatment challenges of irritability in young people. *Journal of Child Psychology and Psychiatry, 59*(7), 721–739. <https://doi.org/10.1111/jcpp.12823>
+1. Stice, E., South, K., & Shaw, H. (2012). Future directions in etiologic, prevention, and treatment research for eating disorders. *Journal of Clinical Child & Adolescent Psychology, 41*(6), 845–855. <https://doi.org/10.1080/15374416.2012.728156>
+1. Young, R., Sproeber, N., Groschwitz, R. C., Preiss, M., & Plener, P. L. (2014). Why alternative teenagers self-harm: Exploring the link between non-suicidal self-injury, attempted suicide and adolescent identity. *BMC Psychiatry, 14*(1), 137. <https://doi.org/10.1186/1471-244X-14-137>
+1. Colvert, E., Rutter, M., Kreppner, J., Beckett, C., Castle, J., Groothues, C., Hawkins, A., Stevens, S., & Sonuga-Barke, E. J. S. (2008). Do theory of mind and executive function deficits underlie the adverse outcomes associated with profound early deprivation?: Findings from the English and Romanian adoptees study. *Journal of Abnormal Child Psychology, 36*(7), 1057–1068. <https://doi.org/10.1007/s10802-008-9232-x>
+1. Nelson, C. A., III, Zeanah, C. H., Fox, N. A., Marshall, P. J., Smyke, A. T., & Guthrie, D. (2007). Cognitive recovery in socially deprived young children: The Bucharest Early Intervention Project. *Science, 318*(5858), 1937–1940. <https://doi.org/10.1126/science.1143921>
+1. Davis, E. P., Glynn, L. M., Schetter, C. D., Hobel, C., Chicz-Demet, A., & Sandman, C. A. (2007). Prenatal exposure to maternal depression and cortisol influences infant temperament. *Journal of the American Academy of Child & Adolescent Psychiatry, 46*(6), 737–746. <https://doi.org/10.1097/chi.0b013e318047b775>
+1. Burke, J. D., Pardini, D. A., & Loeber, R. (2008). Reciprocal relationships between parenting behavior and disruptive psychopathology from childhood through adolescence. *Journal of Abnormal Child Psychology, 36*(5), 679–692. <https://doi.org/10.1007/s10802-008-9219-7>
+1. Cummings, E. M., Goeke-Morey, M. C., & Papp, L. M. (2004). Everyday marital conflict and child aggression. *Journal of Abnormal Child Psychology, 32*(2), 191–202. <https://doi.org/10.1023/B:JACP.0000019770.13216.be>
+1. McDonough, M. H., Jose, P. E., & Stuart, J. (2016). Bi-directional effects of peer relationships and adolescent substance use: A longitudinal study. *Journal of Youth and Adolescence, 45*(8), 1652–1663. <https://doi.org/10.1007/s10964-015-0355-4>
+1. Bonanno, R. A., & Hymel, S. (2013). Cyber bullying and internalizing difficulties: Above and beyond the impact of traditional forms of bullying. *Journal of Youth and Adolescence, 42*(5), 685–697. <https://doi.org/10.1007/s10964-013-9937-1>
+1. Chung, H. L., & Steinberg, L. (2006). Relations between neighborhood factors, parenting behaviors, peer deviance, and delinquency among serious juvenile offenders. *Developmental Psychology, 42*(2), 319–331. <https://doi.org/10.1037/0012-1649.42.2.319>
+1. Collishaw, S., Pickles, A., Messer, J., Rutter, M., Shearer, C., & Maughan, B. (2007). Resilience to adult psychopathology following childhood maltreatment: Evidence from a community sample. *Child Abuse & Neglect, 31*(3), 211–229. <https://doi.org/10.1016/j.chiabu.2007.02.004>
+1. Conduct Problems Prevention Research Group. (2011). The effects of the fast track preventive intervention on the development of conduct disorder across childhood. *Child Development, 82*(1), 331–345. <https://doi.org/10.1111/j.1467-8624.2010.01558.x>
 
-# Academic Honesty and Misconduct {#academicHonesty}
+# Academic Honesty and Misconduct {#sec-academicHonesty}
 
 All students in CLAS courses are expected to abide by the [college's standards of academic honesty](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
 Academic misconduct must be reported by instructors to CLAS according to [these procedures](https://policy.clas.uiowa.edu/clas-policies-and-procedures/undergraduate-education/academic-misconduct-undergraduate).
@@ -146,7 +144,7 @@ Please note that collaboration with other classmates on quizzes and during exams
 However, I do encourage you to collaborate with classmates to *prepare* for exams (e.g., informal study groups).
 In addition, you are expected to follow the course's policy on the use of artificial intelligence (AI), which is outlined below.
 
-# Artificial Intelligence (AI) Policy {#ai}
+# Artificial Intelligence (AI) Policy {#sec-ai}
 
 Because writing, analytical, and critical thinking skills are part of the learning outcomes of this course, all work submitted by students should be prepared by the student.
 You are training these cognitive muscles; if you go to the gym, you would not have AI lift the weights for you.
@@ -155,20 +153,20 @@ Learning these core foundational skills will make you a better user of AI in the
 Moreover, in many industries, use of AI is not permitted because you cannot share the company's proprietary information.
 Thus, developing strong competencies in these domains (without the use of AI) will prepare you for a competitive workplace.
 
-# Course Requirements and Policies {#requirements}
+# Course Requirements and Policies {#sec-requirements}
 
-## Lecture {#lecture}
+## Lecture {#sec-lecture}
 
-We will meet three times weekly for lectures, at the time and location described [above](#lectureTime).
+We will meet three times weekly for lectures, at the time and location described [above](#sec-lectureTime).
 My powerpoint presentations for the lectures will be posted on [ICON](https://icon.uiowa.edu) no later than noon on the day before the lecture (though I may continue to refine the slides up until the time of lecture).
 <u>Please note:</u> powerpoint presentations are an outline of my points. 
 <u>It is your responsibility to take notes during class.</u>
 If you have questions about the lecture notes or need clarification of any of the points, please ask in class or meet with the TA or Professor Petersen during office hours. 
 If you miss class and/or need help catching up on the notes, please make an appointment with the TA.
 
-## Attendance and Participation {#attendanceParticipation}
+## Attendance and Participation {#sec-attendanceParticipation}
 
-Attendance at lectures is required and will be checked and factored into final grades (see grading section [below](#grading)).
+Attendance at lectures is required and will be checked and factored into final grades (see grading section [below](#sec-grading)).
 There are 43 lectures during the semester (excluding examinations).
 You will receive one point for attendance at each lecture up to 40 points (i.e., you will not receive extra credit for attending all 43 lectures).
 <u>Thus, you will not be penalized for missing up to 3 lectures.
@@ -180,19 +178,19 @@ Authorized activities include participation in athletic teams, the marching band
 Absences due to illnesses or emergencies (that go over 3 lectures) must be documented with the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and sent to the TA within 48 hours of the absence.
 Per university policy, if a student will be absent <u>5 or more consecutive days and the absence is due to illness or other emergency</u>, please contact the Registrar Service Center at (319) 384-4300 or registrar@uiowa.edu.
 
-## Readings {#readings}
+## Readings {#sec-readings}
 
 Readings from your text are assigned by lecture topic.
 You should read and take notes on the material before class.
 Past experience has shown that to do well in this class you should read the assigned material, attend lectures and take notes, and review your notes each week.
 There is too much material being covered in this class to try to study only by frantic preparation immediately before quizzes and exams.
 
-## Workload {#workload}
+## Workload {#sec-workload}
 
 This is a 3 semester hour course.
 Students should therefore expect to spend [6 additional hours per week](https://clas.uiowa.edu/faculty/student-workload-guidelines) (outside of class) reading the textbook and articles, reviewing lecture material, preparing for quizzes and exams, and completing writing assignments.
 
-## Quizzes {#quizzes}
+## Quizzes {#sec-quizzes}
 
 Six quizzes will be administered via the [ICON](https://icon.uiowa.edu) website.
 Students <u>are</u> allowed to use their textbook and lecture notes on the quizzes.
@@ -219,7 +217,7 @@ All quizzes should be submitted to [ICON](https://icon.uiowa.edu) by 11:59 p.m. 
 | 5      | 11/15 – 11/29   | Maltreatment and Resilience                                    |
 | 6      | 12/1 – 12/8     | Levels of Analysis Articles, Prevention                        |
 
-## Examinations {#exams}
+## Examinations {#sec-exams}
 
 There will be 2 exams; one mid-term exam and one non-cumulative final exam.
 Exam 1 will be administered during class time.
@@ -232,7 +230,7 @@ Exam dates are listed below.
 **Exam 1 (Mid-Term Exam):	Wednesday, October 4, 2025 during class**\
 **Exam 2 (Final Exam): TBD during finals week** (the date, time, and location will be announced by the 5th week of class by the College of Liberal Arts and Sciences)
 
-### Missing Exams {#missingExams}
+### Missing Exams {#sec-missingExams}
 
 [University regulations require that students be allowed to make up examinations](https://opsmanual.uiowa.edu/students/absences-class) that have been missed due to illness, religious holy days, military service obligations (including service-related medical appointments), or other unavoidable circumstances or University-sponsored activities.
 Students with UI-authorized activities must discuss their absences with the instructor as soon as possible.
@@ -245,7 +243,7 @@ If you know that you must be away at the time of an exam for one of these reason
 In order to take a make-up exam, you must provide acceptable documentation to be eligible to take it: including documentation for any report of illness; any other circumstances must be documented by the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/sites/clas.uiowa.edu/files/2024-05/ABSENCE%20EXPLANATION%20FORM.pdf) (located in ICON under "Student Tools") and must be approved by Professor Petersen.
 <u>In sum, to be eligible for a make-up exam, Professor Petersen or the TA must be contacted before the examination whenever possible, and you must send acceptable form of documentation to Professor Petersen or the TA</u>.
 
-## Literature Critiques {#litCritiques}
+## Literature Critiques {#sec-litCritiques}
 
 You will be required to complete two literature critique assignments.
 These assignments are designed to help you learn to critically analyze original source articles in written form.
@@ -257,18 +255,18 @@ More information on how to structure the critiques will be provided in class.
 Note: Turnitin will be used via [ICON](https://icon.uiowa.edu) to check for plagiarism of a fellow student and from the internet.
 **The critiques are due on Monday, August 28 and Friday, September 8 by 11:59 p.m.**
 
-## Literature Review {#litReview}
+## Literature Review {#sec-litReview}
 
 You will be required to write a <u>literature review</u> on a topic related to child psychopathology.
 The topic of the paper is completely up to the student; the only requirement is that it must be relevant to psychopathology in children or adolescents.
 The paper must include a review and analysis of at least 5 empirical articles on the topic, published since 2000.
 You are encouraged to work with the [UI Writing Center](https://writingcenter.uiowa.edu) in revising your paper.
 
-### Format {#litReviewFormat}
+### Format {#sec-litReviewFormat}
 
 The paper should have five sections:
 
-1. Cover Letter, described [here](#stage6)
+1. Cover Letter, described [here](#sec-stage6)
 1. Title Page
 1. Abstract
 1. Main body
@@ -278,18 +276,18 @@ The main body of the paper should be <u>10–12 pages</u>, excluding the cover l
 The text should be double-spaced, in [APA format](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html), and in 12-point Times New Roman font.
 For sample papers in APA format, see [here](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_sample_paper.html).
 
-### Stages {#stages}
+### Stages {#sec-stages}
 
-#### Overview {#stagesOverview}
+#### Overview {#sec-stagesOverview}
 
 This paper will be completed in 6 stages, all uploaded to [ICON](https://icon.uiowa.edu):
 
-1. [Generate a topic](#stage1)
-1. [Identify articles](#stage2)
-1. [Understand findings from articles](#stage3)
-1. [Write a complete draft](#stage4)
-1. [Give and receive feedback](#stage5)
-1. [Incorporate feedback and polish writing](#stage6)
+1. [Generate a topic](#sec-stage1)
+1. [Identify articles](#sec-stage2)
+1. [Understand findings from articles](#sec-stage3)
+1. [Write a complete draft](#sec-stage4)
+1. [Give and receive feedback](#sec-stage5)
+1. [Incorporate feedback and polish writing](#sec-stage6)
 
 The goals of this project are for each student to produce a thoughtful paper that describes an aspect of this course that captured their interest and to gain more experience with scientific writing.
 Each stage of the process will be discussed in class, so attendance is critical.
@@ -302,7 +300,7 @@ All assignments should be uploaded to [ICON](https://icon.uiowa.edu) by 11:59 p.
 
 The stages—and deadlines—are described below:
 
-#### Deadlines {#deadlines}
+#### Deadlines {#sec-deadlines}
 
 The workflow of the literature review stages, their respective percentages in the total literature review grade, and relevant due dates are listed below.
 
@@ -317,55 +315,55 @@ The workflow of the literature review stages, their respective percentages in th
 | 5c    | **Receive feedback** from peer and from instructor. | – | 11/29 |
 | 6     | **Incorporate feedback and produce a final document.** | 50%  | 12/8  |
 
-#### Stage 1: Generate a Topic {#stage1}
+#### Stage 1: Generate a Topic {#sec-stage1}
 
 You will first develop a topic and a set of keywords for your paper.
 For the review format, this involves generating a specific topic and keywords you will then use to conduct a literature search using [Google Scholar](https://purl.lib.uiowa.edu/GoogleSch), [PsycINFO](https://purl.lib.uiowa.edu/apa/psycinfo), and/or [PubMed](https://purl.lib.uiowa.edu/nlm/pubmed).
 We will discuss strategies for generating topics and keywords in class, and examples will be provided.
-<u>By the [deadline](#deadlines), you will turn in a summary of your research topic (1–2 sentences) and a list of keywords that will start your literature search</u>.
+<u>By the [deadline](#sec-deadlines), you will turn in a summary of your research topic (1–2 sentences) and a list of keywords that will start your literature search</u>.
 
-#### Stage 2: Identify Articles {#stage2}
+#### Stage 2: Identify Articles {#sec-stage2}
 
 After your topic has been approved, you will then conduct a search to identify the articles for your paper.
 You will search PsychINFO or PubMed and identify a minimum of five empirical articles that are all relevant to your topic.
 As we will discuss in class, it is important to define your topic carefully so that all of your identified articles are addressing common components.
-<u>By the [deadline](#deadlines), you will turn in your list of articles</u>. 
+<u>By the [deadline](#sec-deadlines), you will turn in your list of articles</u>. 
 
-#### Stage 3: Understand Findings from Articles {#stage3}
+#### Stage 3: Understand Findings from Articles {#sec-stage3}
 
 Once you have identified the five papers you wish to write about, you will then produce brief summaries of each article that include a description of the methods employed by the researchers and their basic findings (2–4 paragraphs per article for each of your five articles).
 You will also include your reference list, in APA style.
-<u>By the [deadline](#deadlines), you will turn in your article summaries</u>.
+<u>By the [deadline](#sec-deadlines), you will turn in your article summaries</u>.
 
-#### Stage 4: Write a Complete Draft {#stage4}
+#### Stage 4: Write a Complete Draft {#sec-stage4}
 
 Next, you will write and turn in a complete draft of your paper.
 The systematic review should include both description of the empirical studies you've included as well as analysis, critique, and integration of findings.
 For this stage, you will also generate a thesis that describes the overall message of your review and you will work to demonstrate how each article is (or is not) supportive of your thesis.
 The goal of this stage is to develop your ideas and argument so that you can receive feedback.
-<u>By the [deadline](#deadlines), you will turn in your first draft of the paper.
+<u>By the [deadline](#sec-deadlines), you will turn in your first draft of the paper.
 Note: you must turn in a complete draft of your paper—not an outline.</u>
 
-#### Stage 5: Give and Receiving Feedback {#stage5}
+#### Stage 5: Give and Receiving Feedback {#sec-stage5}
 
 Following submission of your first draft, all students will receive detailed feedback from the instructor, which will include critique of content, organization, and argument.
 Additionally each student will complete an anonymous peer review of a fellow student's paper (your draft will also be peer reviewed).
 Peer reviews will be blinded and only I (the instructor) will know which papers belong to which students.
 Reviews will be assigned in class.
 More details about providing an appropriate review and the formatting will be provided in class.
-<u>By the [deadline](#deadlines), you will turn in your review of the peer's paper.</u>
+<u>By the [deadline](#sec-deadlines), you will turn in your review of the peer's paper.</u>
 The instructor will then re-distribute the peer reviews to authors.  
 
-#### Stage 6: Incorporating Feedback and Polishing Writing {#stage6}
+#### Stage 6: Incorporating Feedback and Polishing Writing {#sec-stage6}
 
 You will receive comments from the instructor and from your peer reviewer via email.
 You will then use these comments to revise your paper.
 Your final paper must include a <u>cover letter</u> that details the changes you made to your draft based on feedback from the instructor as well as from your peer reviewer.
 <u>Additionally, students are encouraged to meet with the TA during the week of November 27 to review their feedback and discuss plans for revision.</u>
-<u>By the [deadline](#deadlines), you will submit the literature review</u>.
+<u>By the [deadline](#sec-deadlines), you will submit the literature review</u>.
 The literature review should include the manuscript itself as well as a cover letter describing the changes made in response to comments from the instructor and the peer reviewer.
 
-# Grading System and the Use of +/- {#gradingSystem}
+# Grading System and the Use of +/- {#sec-gradingSystem}
 
 Final grades will be assigned at the end of the semester on the basis of your total percentage of points earned on quizzes, examinations, written assignments, and lecture attendance, as detailed below.
 Grades will be assigned on an absolute scale (criterion-referenced grading; see below); course grades will not be curved.
@@ -393,19 +391,19 @@ Final grades will be assigned based on the following ranges:
 I round up from .5 when determining final grades.
 For example, a course percent of 79.50 would receive a B−, whereas a course percent of 79.49 would receive a C+.
 
-# Course Grades {#courseGrades}
+# Course Grades {#sec-courseGrades}
 
 Final course grades will be assessed based on your performance in the activities below.
 The relative contribution of each component to your final grade is as follows:
 
-- 5%    [Lecture Attendance](#attendanceParticipation)
-- 10%   [Literature Critiques](#litCritiques) (2 at 5% each)
-- 20%   [Exam 1](#exams) (Mid-Term)
-- 20%   [Exam 2](#exams) (Final)
-- 15%   [Quizzes](#quizzes) (5 quizzes after dropping lowest quiz score, 3% each)
-- 30%   [Literature Review](#litReview)
+- 5%    [Lecture Attendance](#sec-attendanceParticipation)
+- 10%   [Literature Critiques](#sec-litCritiques) (2 at 5% each)
+- 20%   [Exam 1](#sec-exams) (Mid-Term)
+- 20%   [Exam 2](#sec-exams) (Final)
+- 15%   [Quizzes](#sec-quizzes) (5 quizzes after dropping lowest quiz score, 3% each)
+- 30%   [Literature Review](#sec-litReview)
 
-# Tentative Course Outline (exam dates fixed) {#outline}
+# Tentative Course Outline (exam dates fixed) {#sec-outline}
 
 | Date        | Topic                                                 | Reading                  | Assignment Due                         |
 |:------------|:------------------------------------------------------|:-------------------------|:---------------------------------------|
@@ -458,14 +456,14 @@ The relative contribution of each component to your final grade is as follows:
 | 12/8        | **FINAL PAPER DUE**                                   |                          |                                        |
 |             | **FINAL EXAM TBD (Week of 12/11–12/15)**              |                          |                                        |
 
-# Date and Time of the Final Exam {#finalExam}
+# Date and Time of the Final Exam {#sec-finalExam}
 
 The [final examination date and time](https://registrar.uiowa.edu/final-exam-schedules) will be announced by the Registrar generally by the fifth week of classes, and it will be announced on the course ICON site once it is known.
 <u>Do not plan your end of the semester travel plans until the final exam schedule is made public.
 It is your responsibility to know the date, time, and place of the final exam.</u>
 According to the Registrar's final exam policy, students <u>have a maximum of two weeks after the announced final exam schedule</u> to request a change if an exam conflict exists or if a student has more than two exams scheduled for the same day (see the [policy](https://registrar.uiowa.edu/makeup-final-examination-policies) here).
 
-# Course Resources {#courseResources}
+# Course Resources {#sec-courseResources}
 
 There are many course resources available to help you succeed in the class, including:
 
@@ -476,9 +474,9 @@ There are many course resources available to help you succeed in the class, incl
 - instructor office hours
 - peer study groups
 - the UI [Writing Center](https://writingcenter.uiowa.edu)
-- Tutor Iowa: https://tutor.uiowa.edu
+- Tutor Iowa: <https://tutor.uiowa.edu>
 
-# Drop Deadline for this Course {#dropDeadline}
+# Drop Deadline for this Course {#sec-dropDeadline}
 
 You may drop an individual course before the drop deadline; after this deadline you will need collegiate approval.
 You can look up the drop deadline for this course [here](https://registrar.uiowa.edu/course-deadlines).
@@ -488,23 +486,23 @@ To discuss how dropping (or staying in) a course might affect your academic goal
 Directions for adding or dropping a course and other registration changes can be found on the [Registrar's website](https://registrar.uiowa.edu/change-registration-myui).
 Students can find policies on dropping CLAS courses [here](https://clas.uiowa.edu/students/students-academic-policies/registration-policies#dropping).
 
-# Feedback about the Course {#feedback}
+# Feedback about the Course {#sec-feedback}
 
 I welcome feedback at any point during the class.
 If you have comments on the class or my teaching, please feel free to meet with me during office hours.
 
-## Student Complaints {#complaints}
+## Student Complaints {#sec-complaints}
 
 Students with a complaint about a grade or a related matter should first discuss the situation with the instructor, and finally with the DEO (Chair) of the department, school, or program offering the course.
 Sometimes students will be referred to the department or program's Director of Undergraduate Studies (DUS) or Director of Graduate Studies (DGS).
 Students should contact [CLAS Undergraduate Programs](https://clas.uiowa.edu/students/handbook/student-rights-responsibilities#rights) for support when the matter is not resolved at the previous level.
 
-# Communication: UI Email {#email}
+# Communication: UI Email {#sec-email}
 
 Students are responsible for all official correspondences sent to their UI email address (uiowa.edu) and must use this address for any communication with instructors or staff in the UI community.
 For the privacy and the protection of student records, UI faculty and staff can only correspond with UI email addresses.
 
-## Other Expectations of Student Performance {#otherExpectations}
+## Other Expectations of Student Performance {#sec-otherExpectations}
 
 Students have the right to a distraction-free learning environment.
 You have the responsibility to help create such a classroom environment.
@@ -512,7 +510,7 @@ Please treat other students in the class, the TA, and the instructor with respec
 Students are expected to help each other learn and to contribute overall to the learning environment of the course.
 Arriving prepared for class is part of this expectation.
 
-# University Policies {#UIowaPolicies}
+# University Policies {#sec-UIowaPolicies}
 
 [University Policies](https://provost.uiowa.edu/student-course-policies)
 
@@ -550,14 +548,14 @@ The distribution, sharing, sale, or posting of recordings on the internet (inclu
 - [Basic Needs and Student Support](https://provost.uiowa.edu/student-course-policies)
 - [Class Recordings](https://provost.uiowa.edu/student-course-policies)
 
-# Where to Get Academic Support for This Course {#academic-support}
+# Where to Get Academic Support for This Course {#sec-academic-support}
 
 - Drop-in study groups and one-on-one tutoring: student drop-in hours of the TA and instructor
-- Formal tutoring: Tutor Iowa: https://tutor.uiowa.edu
-- UI Writing Center: https://writingcenter.uiowa.edu
-- Academic accommodations: https://sds.studentlife.uiowa.edu
+- Formal tutoring: Tutor Iowa: <https://tutor.uiowa.edu>
+- UI Writing Center: <https://writingcenter.uiowa.edu>
+- Academic accommodations: <https://sds.studentlife.uiowa.edu>
 
-# Mental Health Resources and Student Support {#mental-health}
+# Mental Health Resources and Student Support {#sec-mental-health}
 
 Students are encouraged to be mindful of their mental health and seek help as a preventive measure or if feeling overwhelmed and/or struggling to meet course expectations.
 Students are encouraged to talk to their instructor for assistance with specific class-related concerns.
@@ -571,22 +569,22 @@ Student Care and Assistance: 132 IMU, [dos-assistance@uiowa.edu](mailto:dos-assi
 
 If you feel that you or someone you know may be struggling with an academic, emotional, or psychological problem, the following organizations are available for assistance:
 
-| Service                                                                    | Contact Info                                                     |
-|:---------------------------------------------------------------------------|:-----------------------------------------------------------------|
-| University of Iowa Academic Advising Center                                | 353-5700, https://advisingcenter.uiowa.edu                       |
-| University Counseling Services                                             | 335-7294, https://www.uiowa.edu/ucs                              |
-| Student Health Service - Mental Health                                     | 335-8394, https://studenthealth.uiowa.edu/services/psychiatry    |
-| University of Iowa Hospitals and Clinics Adult Psychiatry Services Clinic  | 353-6314, https://www.uihealthcare.org/Psychiatry                |
-| Seashore Clinic (in the UI Department of Psychological and Brain Sciences) | 335-2467, https://psychology.uiowa.edu/resources/seashore-clinic |
-| Women's Resource and Action Center                                         | 335-1486, https://wrac.uiowa.edu                                 |
-| Rape Victim Advocacy Program                                               | 319-335-6000 or 800-228-1625, https://www.uiowa.edu/~rvap        |
-| Office of Sexual Misconduct                                                | 319-335-6200, https://osmrc.uiowa.edu                            |
-| CommUnity                                                                  | 855-325-4296, https://builtbycommunity.org/crisis                |
-| Community & Family Resources                                               | 351-4357, https://www.cfrhelps.org/                              |
+| Service                                                                    | Contact Info                                                       |
+|:---------------------------------------------------------------------------|:-------------------------------------------------------------------|
+| University of Iowa Academic Advising Center                                | 353-5700, <https://advisingcenter.uiowa.edu>                       |
+| University Counseling Services                                             | 335-7294, <https://www.uiowa.edu/ucs>                              |
+| Student Health Service - Mental Health                                     | 335-8394, <https://studenthealth.uiowa.edu/services/psychiatry>    |
+| University of Iowa Hospitals and Clinics Adult Psychiatry Services Clinic  | 353-6314, <https://www.uihealthcare.org/Psychiatry>                |
+| Seashore Clinic (in the UI Department of Psychological and Brain Sciences) | 335-2467, <https://psychology.uiowa.edu/resources/seashore-clinic> |
+| Women's Resource and Action Center                                         | 335-1486, <https://wrac.uiowa.edu>                                 |
+| Rape Victim Advocacy Program                                               | 319-335-6000 or 800-228-1625, <https://www.uiowa.edu/~rvap>        |
+| Office of Sexual Misconduct                                                | 319-335-6200, <https://osmrc.uiowa.edu>                            |
+| CommUnity                                                                  | 855-325-4296, <https://builtbycommunity.org/crisis>                |
+| Community & Family Resources                                               | 351-4357, <https://www.cfrhelps.org>                               |
 
 <u>If you or someone you know is contemplating suicide</u>, either call or text the Suicide and Crisis Lifeline at 988, or call 911.
 
-# Disclaimer {#disclaimer}
+# Disclaimer {#sec-disclaimer}
 
 This syllabus is subject to change.
 Any changes will be discussed in class, via email, and/or on [ICON](https://icon.uiowa.edu).
