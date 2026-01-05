@@ -1,6 +1,5 @@
 ---
 title: "Wiki for PSY:3330 – Childhood Psychopathology (Fall 2025)"
-format-links: false
 ---
 
 The Class Wiki includes the [course syllabus](syllabus.qmd) and miscellaneous resources.
