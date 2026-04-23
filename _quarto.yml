@@ -59,6 +59,7 @@ format:
   pdf:
     keep-tex: true
     license: false
+    pdf-standard: ua-2
 
 lightbox: 
   match: auto
