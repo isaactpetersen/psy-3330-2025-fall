@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://isaactpetersen.github.io/psy-3330-2025-fall/index.html</loc>
-    <lastmod>2026-08-05T12:29:30.663Z</lastmod>
-  </url>
-  <url>
     <loc>https://isaactpetersen.github.io/psy-3330-2025-fall/devpsylab.html</loc>
-    <lastmod>2026-08-05T12:29:30.652Z</lastmod>
-  </url>
-  <url>
-    <loc>https://isaactpetersen.github.io/psy-3330-2025-fall/about.html</loc>
-    <lastmod>2026-08-05T12:29:30.652Z</lastmod>
+    <lastmod>2026-11-17T21:05:45.785Z</lastmod>
   </url>
   <url>
     <loc>https://isaactpetersen.github.io/psy-3330-2025-fall/help.html</loc>
-    <lastmod>2026-08-05T12:29:30.662Z</lastmod>
+    <lastmod>2026-11-17T21:05:45.792Z</lastmod>
   </url>
   <url>
     <loc>https://isaactpetersen.github.io/psy-3330-2025-fall/syllabus.html</loc>
-    <lastmod>2026-08-05T12:29:30.663Z</lastmod>
+    <lastmod>2026-11-17T21:05:45.793Z</lastmod>
+  </url>
+  <url>
+    <loc>https://isaactpetersen.github.io/psy-3330-2025-fall/about.html</loc>
+    <lastmod>2026-11-17T21:05:45.785Z</lastmod>
+  </url>
+  <url>
+    <loc>https://isaactpetersen.github.io/psy-3330-2025-fall/index.html</loc>
+    <lastmod>2026-11-17T21:05:45.793Z</lastmod>
   </url>
 </urlset>

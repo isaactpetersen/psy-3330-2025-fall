@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Wiki for PSY:3330 – Childhood Psychopathology (Fall 2025)",
-    "section": "",
-    "text": "The Class Wiki includes the course syllabus and miscellaneous resources.\n\n\n\n\n\nReuseCC BY 4.0"
-  },
-  {
     "objectID": "devpsylab.html#our-mission",
     "href": "devpsylab.html#our-mission",
     "title": "Get Involved in Research with the Developmental Psychopathology Lab!",
@@ -35,13 +28,6 @@
     "text": "2.2 Explore Opportunities:\n\nPursue independent projects\nSpecialize in working with children and data management\nLearn coding languages and/or video software"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About This Website",
-    "section": "",
-    "text": "This website was generated with Quarto. The codebase that was used to generate the Class Wiki is located here.\n\n1 License\n\n\n\nCC BY 4.0\n\n\nThis work is licensed under a Creative Commons Attribution 4.0 International License.\n\n\n\nCC BY 4.0\n\n\n\n\n2 Session Info\n\n\nCode\nsessionInfo()\n\n\nR version 4.6.1 (2026-06-24)\nPlatform: x86_64-pc-linux-gnu\nRunning under: Ubuntu 24.04.4 LTS\n\nMatrix products: default\nBLAS:   /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3 \nLAPACK: /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.26.so;  LAPACK version 3.12.0\n\nlocale:\n [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       \n [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   \n [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          \n[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   \n\ntime zone: UTC\ntzcode source: system (glibc)\n\nattached base packages:\n[1] stats     graphics  grDevices utils     datasets  methods   base     \n\nloaded via a namespace (and not attached):\n [1] htmlwidgets_1.6.4 compiler_4.6.1    fastmap_1.2.0     cli_3.6.6        \n [5] tools_4.6.1       htmltools_0.5.9   otel_0.2.0        yaml_2.3.12      \n [9] rmarkdown_2.31    knitr_1.51        jsonlite_2.0.0    xfun_0.60        \n[13] digest_0.6.39     rlang_1.3.0       evaluate_1.0.5   \n\n\n\n\n\n\n\n\nReuseCC BY 4.0"
-  },
-  {
     "objectID": "help.html",
     "href": "help.html",
     "title": "I Think I Might Need Some Help…",
@@ -53,7 +39,7 @@
     "href": "syllabus.html",
     "title": "Course Syllabus",
     "section": "",
-    "text": "Last Updated: 08/05/2026"
+    "text": "Last Updated: 11/17/2026"
   },
   {
     "objectID": "syllabus.html#sec-textbook",
@@ -138,5 +124,19 @@
     "title": "Course Syllabus",
     "section": "22.1 Other Expectations of Student Performance",
     "text": "22.1 Other Expectations of Student Performance\nStudents have the right to a distraction-free learning environment. You have the responsibility to help create such a classroom environment. Please treat other students in the class, the TA, and the instructor with respect. Students are expected to help each other learn and to contribute overall to the learning environment of the course. Arriving prepared for class is part of this expectation."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About This Website",
+    "section": "",
+    "text": "This website was generated with Quarto. The codebase that was used to generate the Class Wiki is located here.\n\n1 License\n\n\n\nCC BY 4.0\n\n\nThis work is licensed under a Creative Commons Attribution 4.0 International License.\n\n\n\nCC BY 4.0\n\n\n\n\n2 Session Info\n\n\nCode\nsessionInfo()\n\n\nR version 4.6.2 (2026-10-29)\nPlatform: x86_64-pc-linux-gnu\nRunning under: Ubuntu 26.04.1 LTS\n\nMatrix products: default\nBLAS:   /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3 \nLAPACK: /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.32.so;  LAPACK version 3.12.0\n\nlocale:\n [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       \n [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   \n [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          \n[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   \n\ntime zone: UTC\ntzcode source: system (glibc)\n\nattached base packages:\n[1] stats     graphics  grDevices utils     datasets  methods   base     \n\nloaded via a namespace (and not attached):\n [1] htmlwidgets_1.6.4 compiler_4.6.2    fastmap_1.2.0     cli_3.6.6        \n [5] tools_4.6.2       htmltools_0.5.9   otel_0.3.0        yaml_2.3.12      \n [9] rmarkdown_2.32    knitr_1.52        jsonlite_2.0.0    xfun_0.62        \n[13] digest_0.6.39     rlang_1.3.0       evaluate_1.0.5   \n\n\n\n\n\n\n\n\nReuseCC BY 4.0"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Wiki for PSY:3330 – Childhood Psychopathology (Fall 2025)",
+    "section": "",
+    "text": "The Class Wiki includes the course syllabus and miscellaneous resources.\n\n\n\n\n\nReuseCC BY 4.0"
   }
 ]
